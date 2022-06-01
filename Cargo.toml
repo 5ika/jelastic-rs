@@ -2,6 +2,12 @@
 name = "jelastic-rs"
 version = "0.1.0"
 edition = "2021"
+description = " Rust wrapper for the Jelastic API"
+readme = "README.md"
+license-file = "LICENSE"
+repository = "https://github.com/5ika/jelastic-rs"
+categories = ["api-bindings", "asynchronous"]
+keywords = ["jelastic", "jelastic-api", "api", "cloud", "hidora"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
